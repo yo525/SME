@@ -92,7 +92,7 @@ print(f"Ciphertext: {ciphertext}")
 decrypted_text = sme.decrypt(ciphertext)
 print(f"Decrypted Text: {decrypted_text}")
 ```
-![](\assets\basic_encryption-decryption.png)
+![](/assets/basic_encryption-decryption.png)
 
 ### Dependent Matrix Encryption/Decryption
 
@@ -115,7 +115,7 @@ print(f"Ciphertext: {ciphertext}")
 decrypted_text = sme_dbf.decrypt(ciphertext)
 print(f"Decrypted Text: {decrypted_text}")
 ```
-![](\assets\dependent_matrix_encryption-decryption.png)
+![](/assets/dependent_matrix_encryption-decryption.png)
 
 ### Step-by-Step Encryption/Decryption (shows each step) [^2]
 
@@ -139,7 +139,7 @@ print(f"Ciphertext: {ciphertext}")
 decrypted_text = sme.decrypt_show(ciphertext)
 print(f"Decrypted Text: {decrypted_text}")
 ```
-![](\assets\step-by-step_encryption-decryption.png)
+![](/assets/step-by-step_encryption-decryption.png)
 
 ### Performance Benchmarking and matrix integrity checker [^3]
 
